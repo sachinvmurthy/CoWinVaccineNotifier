@@ -9,6 +9,7 @@ s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls()
 s.login("sender_email", "pass")
 #Karnataka
+#Please see distric_id in reademe 
 DIST_ID = 16
 age = 18
 # Print details flag
