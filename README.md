@@ -16,12 +16,21 @@ This script checks every 30 mins, please feel free to change the time according 
 
 STATE IDS - 
 State code:  1
+
+
+
+
 3 	 Nicobar
 1 	 North and Middle Andaman
 2 	 South Andaman
 
 
 State code:  2
+
+
+
+
+
 9 	 Anantapur
 10 	 Chittoor
 11 	 East Godavari
@@ -38,6 +47,10 @@ State code:  2
 
 
 State code:  3
+
+
+
+
 22 	 Anjaw
 20 	 Changlang
 25 	 Dibang Valley
@@ -67,6 +80,11 @@ State code:  3
 
 
 State code:  4
+
+
+
+
+
 46 	 Baksa
 47 	 Barpeta
 765 	 Biswanath
@@ -103,6 +121,12 @@ State code:  4
 
 
 State code:  5
+
+
+
+
+
+
 74 	 Araria
 78 	 Arwal
 77 	 Aurangabad
@@ -144,10 +168,23 @@ State code:  5
 
 
 State code:  6
+
+
+
+
+
+
 108 	 Chandigarh
 
 
 State code:  7
+
+
+
+
+
+
+
 110 	 Balod
 111 	 Baloda bazar
 112 	 Balrampur
@@ -179,10 +216,20 @@ State code:  7
 
 
 State code:  8
+
+
+
 137 	 Dadra and Nagar Haveli
 
 
 State code:  9
+
+
+
+
+
+
+
 141 	 Central Delhi
 145 	 East Delhi
 140 	 New Delhi
@@ -197,11 +244,22 @@ State code:  9
 
 
 State code:  10
+
+
+
+
+
+
 151 	 North Goa
 152 	 South Goa
 
 
 State code:  11
+
+
+
+
+
 154 	 Ahmedabad
 770 	 Ahmedabad Corporation
 174 	 Amreli
@@ -245,7 +303,16 @@ State code:  11
 167 	 Valsad
 
 
+
+
 State code:  12
+
+
+
+
+
+
+
 193 	 Ambala
 200 	 Bhiwani
 201 	 Charkhi Dadri
@@ -286,6 +353,11 @@ State code:  13
 
 
 State code:  14
+
+
+
+
+
 224 	 Anantnag
 223 	 Bandipore
 225 	 Baramulla
@@ -309,6 +381,11 @@ State code:  14
 
 
 State code:  15
+
+
+
+
+
 242 	 Bokaro
 245 	 Chatra
 253 	 Deoghar
@@ -336,6 +413,11 @@ State code:  15
 
 
 State code:  16
+
+
+
+
+
 270 	 Bagalkot
 276 	 Bangalore Rural
 265 	 Bangalore Urban
@@ -370,6 +452,10 @@ State code:  16
 
 
 State code:  17
+
+
+
+
 301 	 Alappuzha
 307 	 Ernakulam
 306 	 Idukki
@@ -387,16 +473,29 @@ State code:  17
 
 
 State code:  18
+
+
+
+
+
 309 	 Kargil
 310 	 Leh
 
 
 State code:  19
+
+
+
+
+
 796 	 Agatti Island
 311 	 Lakshadweep
 
 
 State code:  20
+
+
+
 320 	 Agar
 357 	 Alirajpur
 334 	 Anuppur
@@ -451,6 +550,9 @@ State code:  20
 
 
 State code:  21
+
+
+
 391 	 Ahmednagar
 364 	 Akola
 366 	 Amravati
@@ -489,6 +591,9 @@ State code:  21
 
 
 State code:  22
+
+
+
 398 	 Bishnupur
 399 	 Chandel
 400 	 Churachandpur
@@ -508,6 +613,9 @@ State code:  22
 
 
 State code:  23
+
+
+
 424 	 East Garo Hills
 418 	 East Jaintia Hills
 414 	 East Khasi Hills
@@ -522,6 +630,9 @@ State code:  23
 
 
 State code:  24
+
+
+
 425 	 Aizawl East
 426 	 Aizawl West
 429 	 Champhai
@@ -534,6 +645,9 @@ State code:  24
 
 
 State code:  25
+
+
+
 434 	 Dimapur
 444 	 Kiphire
 441 	 Kohima
@@ -548,6 +662,9 @@ State code:  25
 
 
 State code:  26
+
+
+
 445 	 Angul
 448 	 Balangir
 447 	 Balasore
@@ -581,6 +698,8 @@ State code:  26
 
 
 State code:  27
+
+
 476 	 Karaikal
 477 	 Mahe
 475 	 Puducherry
@@ -588,6 +707,9 @@ State code:  27
 
 
 State code:  28
+
+
+
 485 	 Amritsar
 483 	 Barnala
 493 	 Bathinda
@@ -613,6 +735,8 @@ State code:  28
 
 
 State code:  29
+
+
 507 	 Ajmer
 512 	 Alwar
 519 	 Banswara
@@ -650,6 +774,7 @@ State code:  29
 
 
 State code:  30
+
 535 	 East Sikkim
 537 	 North Sikkim
 538 	 South Sikkim
@@ -657,6 +782,7 @@ State code:  30
 
 
 State code:  31
+
 779 	 Aranthangi
 555 	 Ariyalur
 578 	 Attur
@@ -705,6 +831,7 @@ State code:  31
 
 
 State code:  32
+
 582 	 Adilabad
 583 	 Bhadradri Kothagudem
 581 	 Hyderabad
@@ -741,6 +868,7 @@ State code:  32
 
 
 State code:  33
+
 614 	 Dhalai
 615 	 Gomati
 616 	 Khowai
@@ -752,6 +880,7 @@ State code:  33
 
 
 State code:  34
+
 622 	 Agra
 623 	 Aligarh
 625 	 Ambedkar Nagar
@@ -830,6 +959,7 @@ State code:  34
 
 
 State code:  35
+
 704 	 Almora
 707 	 Bageshwar
 699 	 Chamoli
@@ -845,7 +975,13 @@ State code:  35
 703 	 Uttarkashi
 
 
+
 State code:  36
+
+
+
+
+
 710 	 Alipurduar District
 711 	 Bankura
 712 	 Basirhat HD (North 24 Parganas)
@@ -878,6 +1014,8 @@ State code:  36
 
 
 State code:  37
+
+
 138 	 Daman
 139 	 Diu
 
@@ -885,7 +1023,11 @@ State code:  37
 State code:  38
 
 
+
+
 State code:  39
+
+
 791 	 Chamba
 795 	 Kangra
 792 	 Kinnaur
